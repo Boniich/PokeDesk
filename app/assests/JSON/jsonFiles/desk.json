@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "2 Jugadores, Juego de iniciacion ",
+        "img": "./app/assests/JSON/imgForJsonFiles/2-player-starter-set.jpg"
+    },{
+        "id": 2,
+        "name": "Apagon",
+        "img": "./app/assests/JSON/imgForJsonFiles/blackout.jpg"
+    },{
+        "id": 3,
+        "name": "Quema Bosques",
+        "img": "./app/assests/JSON/imgForJsonFiles/quema_bosques.jpg"
+    },{
+        "id": 4,
+        "name": "Quema Bosques",
+        "img": "./app/assests/JSON/imgForJsonFiles/Overgrowth.jpg"
+    },{
+        "id": 5,
+        "name": "Quema Bosques",
+        "img": "./app/assests/JSON/imgForJsonFiles/Zap.jpg"
+    }
+]
