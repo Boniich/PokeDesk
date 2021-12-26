@@ -4,6 +4,7 @@ function Nav(){
     $nav = document.createElement("nav"),
     $title = document.createElement("h1");
 
+    $nav.classList.add("nav");
     $title.innerHTML = "PokeDesk";
 
     $nav.appendChild($title);
