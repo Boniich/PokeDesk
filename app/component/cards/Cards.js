@@ -6,7 +6,7 @@ function Cards(props){
     const $card = document.createElement("div");
 
     for(let e = 0; e<length;e++){
-        $card.innerHTML += `<img width = "250px" src="${cards[e].img}"></img>`;
+        $card.innerHTML += `<img class="cards" width = "250px" src="${cards[e].img}"></img>`;
     }
 
     return $card;
