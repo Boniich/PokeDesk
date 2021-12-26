@@ -7,8 +7,9 @@ function Desk(props){
     $deskImg = document.createElement("img"),
     $deskTitle = document.createElement("h1");
 
-    $desk.id = idMatch;
     $desk.classList.add("desk");
+    $deskImg.classList.add(idMatch);
+    $deskTitle.classList.add(idMatch);
 
     $deskImg.src = `${img}`
     $deskTitle.innerHTML = `${name}`
