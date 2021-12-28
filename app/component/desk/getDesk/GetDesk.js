@@ -4,7 +4,7 @@ import Desk from "../Desk.js";
 export async function GetDesk(element){
 
     await ajax({
-        url: "./app/assests/JSON/jsonFiles/desk.json",
+        url: "./app/assests/JSON/jsonFiles/deskJson/desk.json",
         cbSuccess: (desks) =>{
             console.log(desks);
             desks.forEach(desk =>{
