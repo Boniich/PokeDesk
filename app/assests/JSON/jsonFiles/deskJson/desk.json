@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "idMatch": "primerMazo",
+        "name": "2 Jugadores, Juego de iniciacion ",
+        "img": "./app/assests/JSON/imgForJsonFiles/2-player-starter-set.jpg",
+        "card":[
+            {
+                "id": 1,
+                "name": "Energia de Puño",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/energyFight.jpg"
+            }
+        ]
+    },{
+        "id": 2,
+        "idMatch": "segundoMazo",
+        "name": "Apagon",
+        "img": "./app/assests/JSON/imgForJsonFiles/blackout.jpg",
+        "card": []
+    },{
+        "id": 3,
+        "idMatch": "tercerMazo",
+        "name": "Quema Bosques",
+        "img": "./app/assests/JSON/imgForJsonFiles/quema_bosques.jpg",
+        "card": []
+    },{
+        "id": 4,
+        "idMatch": "cuartoMazo",
+        "name": "Supercrecimiento",
+        "img": "./app/assests/JSON/imgForJsonFiles/Overgrowth.jpg",
+        "card": []
+    },{
+        "id": 5,
+        "idMatch": "quintoMazo",
+        "name": "Zap!",
+        "img": "./app/assests/JSON/imgForJsonFiles/Zap.jpg",
+        "card": []
+    }
+]
