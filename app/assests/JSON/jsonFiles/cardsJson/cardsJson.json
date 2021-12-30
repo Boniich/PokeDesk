@@ -1,0 +1,386 @@
+[
+    {
+        "id": 1,
+        "desk": "Mazo Inicial",
+        "cards":[
+            {
+                "id": 1,
+                "name": "Energia de Puño",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/energies/energy_fight.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Energia de Pugo",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/energies/energy_fire.jpg"
+            },{
+                "id": 3,
+                "name": "Machamp",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fight/Machamp.jpg"
+            },{
+                "id": 4,
+                "name": "Machoke",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fight/Machoke.jpg"
+            },{
+                "id": 5,
+                "name": "Machop",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fight/Machop.jpg"
+            },{
+                "id": 6,
+                "name": "Diglett",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fight/Diglett.jpg"
+            },{
+                "id": 7,
+                "name": "Charmeleon",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fire/Charmeleon.jpg"
+            },{
+                "id": 8,
+                "name": "Charmander",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fire/Charmander.jpg"
+            },{
+                "id": 9,
+                "name": "Growlithe",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fire/Growlithe.jpg"
+            },{
+                "id": 10,
+                "name": "Ponyta",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fire/Ponyta.jpg"
+            },{
+                "id": 11,
+                "name": "Dratini",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_normal/Dratini.jpg"
+            },{
+                "id": 12,
+                "name": "Rattata",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_normal/Rattata.jpg"
+            },{
+                "id": 13,
+                "name": "Bill",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Bill.jpg"
+            },{
+                "id": 14,
+                "name": "Cambio",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Cambio.jpg"
+            },{
+                "id": 15,
+                "name": "Golpe_de_Viento",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Golpe_de_Viento.jpg"
+            },{
+                "id": 17,
+                "name": "Pocion",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Pocion.jpg"
+            },{
+                "id": 18,
+                "name": "Pokedex",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Pokedex.jpg"
+            },{
+                "id": 19,
+                "name": "Quite de Energia",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Quite_de_Energ.jpg"
+            },{
+                "id": 20,
+                "name": "Recuperacion de Energia",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Recuperacion_de_Energia.jpg"
+            }
+
+        ]
+    },{
+        "id": 2,
+        "desk": "Mazo Apagon",
+        "cards":[
+            {
+                "id": 1,
+                "name": "Energia de Puño",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/energies/energy_fight.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Energia de Agua",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/energies/energy_water.jpg"
+            },{
+                "id": 3,
+                "name": "Hitmonchan",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fight/Hitmonchan.jpg"
+            },{
+                "id": 4,
+                "name": "Machoke",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fight/Machoke.jpg"
+            },{
+                "id": 5,
+                "name": "Machop",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fight/Machop.jpg"
+            },{
+                "id": 6,
+                "name": "Onix",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fight/Onix.jpg"
+            },{
+                "id": 7,
+                "name": "Sandshrew",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fight/Sandshrew.jpg"
+            },{
+                "id": 8,
+                "name": "Wartortle",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_water/Wartortle.jpg"
+            },{
+                "id": 9,
+                "name": "Squirtle",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_water/Squirtle.jpg"
+            },{
+                "id": 10,
+                "name": "Staryu",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_water/Staryu.jpg"
+            },{
+                "id": 11,
+                "name": "Farfetch",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_normal/Farfetch.jpg"
+            },{
+                "id": 12,
+                "name": "Superquite de Energia",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Superquite_de_Energia.jpg"
+            },{
+                "id": 13,
+                "name": "Profesor Oak",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Profesor_Oak.jpg"
+            },{
+                "id": 14,
+                "name": "Quite de Energia",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Quite_de_Energ.jpg"
+            },{
+                "id": 15,
+                "name": "Golpe de Viento",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Golpe_de_Viento.jpg"
+            },{
+                "id": 17,
+                "name": "Poder Plus",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Poderplus.jpg"
+            }
+        ]
+    },{
+        "id": 3,
+        "desk": "Quema Bosques",
+        "cards":[
+            {
+                "id": 1,
+                "name": "Energia de Fuego",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/energies/energy_fire.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Energia de Planta",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/energies/energy_grass.jpg"
+            },{
+                "id": 3,
+                "name": "Ninetales",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fire/Ninetales_Base.jpg"
+            },{
+                "id": 4,
+                "name": "Vulpix",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fire/Vulpix.jpg"
+            },{
+                "id": 5,
+                "name": "Charmeleon",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fire/Charmeleon.jpg"
+            },{
+                "id": 6,
+                "name": "Charmander",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fire/Charmander.jpg"
+            },{
+                "id": 7,
+                "name": "Arcanine",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fire/Arcanine.jpg"
+            },{
+                "id": 8,
+                "name": "Growlithe",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_fire/Growlithe.jpg"
+            },{
+                "id": 9,
+                "name": "Nidoran",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_grass/Nidoran.jpg"
+            },{
+                "id": 10,
+                "name": "Weedle",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_grass/Weedle.jpg"
+            },{
+                "id": 11,
+                "name": "Tangela",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_grass/Tangela.jpg"
+            },{
+                "id": 12,
+                "name": "Recuperacion de Energia",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Recuperacion_de_Energia.jpg"
+            },{
+                "id": 13,
+                "name": "Chica",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Chica.jpg"
+            },{
+                "id": 14,
+                "name": "Quite de Energia",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Quite_de_Energ.jpg"
+            },{
+                "id": 15,
+                "name": "Golpe de Viento",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Golpe_de_Viento.jpg"
+            },{
+                "id": 16,
+                "name": "Poder Plus",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Poderplus.jpg"
+            }
+            ,{
+                "id": 17,
+                "name": "Pocion",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Pocion.jpg"
+            }
+            ,{
+                "id": 18,
+                "name": "Cambio",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Cambio.jpg"
+            }
+        ]
+    },{
+        "id": 3,
+        "desk": "Supercrecimiento",
+        "cards":[
+            {
+                "id": 1,
+                "name": "Energia de Agua",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/energies/energy_water.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Energia de Planta",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/energies/energy_grass.jpg"
+            },{
+                "id": 3,
+                "name": "Gyarados",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_water/Gyarados.jpg"
+            },{
+                "id": 4,
+                "name": "Magikarp",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_water/Magikarp.jpg"
+            },{
+                "id": 5,
+                "name": "Starmie",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_water/Starmie.jpg"
+            },{
+                "id": 6,
+                "name": "Staryu",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_water/Staryu.jpg"
+            },{
+                "id": 7,
+                "name": "Beedrill",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_grass/Beedrill.jpg"
+            },{
+                "id": 8,
+                "name": "Kakuna",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_grass/Kakuna.jpg"
+            },{
+                "id": 9,
+                "name": "Weedle",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_grass/Weedle.jpg"
+            },{
+                "id": 10,
+                "name": "Super pocion",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Super_Pocion.jpg"
+            },{
+                "id": 11,
+                "name": "Cambio",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Cambio.jpg"
+            },{
+                "id": 12,
+                "name": "Bill",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Bill.jpg"
+            },{
+                "id": 13,
+                "name": "Golpe de Viento",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Golpe_de_Viento.jpg"
+            },{
+                "id": 14,
+                "name": "Pocion",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Pocion.jpg"
+            }
+        ]
+    },{
+        "id": 3,
+        "desk": "Zap",
+        "cards":[
+            {
+                "id": 1,
+                "name": "Energia de Psiquica",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/energies/energy_psy.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Energia de Electrica",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/energies/energy_elec.jpg"
+            },{
+                "id": 3,
+                "name": "Mewtwo",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_psy/Mewtwo.jpg"
+            },{
+                "id": 4,
+                "name": "Haunter",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_psy/Haunter.jpg"
+            },{
+                "id": 5,
+                "name": "Gastly",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_psy/Gastly.jpg"
+            },{
+                "id": 6,
+                "name": "Kadabra",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_psy/Kadabra.jpg"
+            },{
+                "id": 7,
+                "name": "Abra",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_psy/Abra.jpg"
+            },{
+                "id": 8,
+                "name": "Jynx",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_psy/Jynx.jpg"
+            },{
+                "id": 9,
+                "name": "Drowzee",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_psy/Drowzee.jpg"
+            },{
+                "id": 10,
+                "name": "Pikachu",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_electry/Pikachu.jpg"
+            },{
+                "id": 11,
+                "name": "Magnemite",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/pokemon/pokemon_electry/Magnemite.jpg"
+            },{
+                "id": 12,
+                "name": "Busqueda por Computadora",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Busqueda_por_Computadora.jpg"
+            },{
+                "id": 13,
+                "name": "Profesor Oak",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Profesor_Oak.jpg"
+            },{
+                "id": 14,
+                "name": "Super Pocion",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Super_Pocion.jpg"
+            },{
+                "id": 15,
+                "name": "Golpe de Viento",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Golpe_de_Viento.jpg"
+            },{
+                "id": 16,
+                "name": "Bill",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Bill.jpg"
+            },{
+                "id": 17,
+                "name": "Defensor",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Defensor.jpg"
+            },{
+                "id": 18,
+                "name": "Cambio",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Cambio.jpg"
+            },{
+                "id": 19,
+                "name": "Pocion",
+                "img": "./app/assests/JSON/imgForJSONFiles/Cards/trainers/Pocion.jpg"
+            }
+        ]
+    }
+
+]
